@@ -1,7 +1,9 @@
-Second year IT student.
+Second year IT student.<br>
 Tech passionate and programming amateur.
 
 I work on several projets, including school and personnal projects, such as [PhotoFilter](https://photofilter.fr/), or <span title="Currently being worked on.">_L'Inventaire_</span>.
+
+<hr>
 
 IDEs I use:<br>
 [![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,vscode,eclipse)](https://skillicons.dev)<br>
